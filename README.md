@@ -1,3 +1,5 @@
+# ![alt_text](https://github.com/raghavxt/DataSci/blob/main/IMG_1245.jpg)
+
 # Raghav's Data Sceince Portfolio
 
 # [Industry Practicum - Churn Prediction](https://github.com/raghavxt/DataSci/blob/main/MeijerLogisticReg-ThresForChange-Final-IncludesBoth.ipynb)
