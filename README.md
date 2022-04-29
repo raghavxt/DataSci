@@ -8,7 +8,7 @@
 
 # [Web Scrapping 1](https://github.com/raghavxt/DataSci/blob/main/Assignment2.ipynb)
 #     Analyzing difference in impact of performance drivers for AirBnB occupancy.
-#     Statistically determing the correlation between guest demography and restaurant ratings
+#     Statistically determining the correlation between guest demography and restaurant ratings
 
 # [Web Scrapping 2](https://github.com/raghavxt/DataSci/blob/main/Taparia_Raghav_HW6.ipynb)
 #     EDA for application performance 
